@@ -1,6 +1,6 @@
 # How to be better at code reviews?
 
-This is the result of an investigation I recently made, aiming to improve my code review skills and I came up with this mind map to take note on how this process can be improved.
+This is the result of an investigation I recently made, aiming to improve my code review skills and I came up with this mind map to take note of how this process can be improved.
 
 ![Better Code Reviews Mind map](https://user-images.githubusercontent.com/668906/151768016-fbd161ec-1e56-4712-9c44-1c53dc918f60.jpg)
 
